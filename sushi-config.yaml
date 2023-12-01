@@ -158,6 +158,12 @@ menu:
 #     resources:
 #     - StructureDefinition/bark-control
 #     - StructureDefinition/bee-sting
+groups:
+  HI:
+    name:  HI Datenmodell
+    description: Datenmodell basierend auf Rahmenkonzept.
+    resources:
+      - StructureDefinition/Patient
 #
 #
 # The ImplementationGuide resource defines several other properties
