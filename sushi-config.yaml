@@ -163,7 +163,7 @@ groups:
     name:  HI Datenmodell
     description: Datenmodell basierend auf Rahmenkonzept.
     resources:
-      - StructureDefinition/Patient
+      - StructureDefinition/PatientHI
 #
 #
 # The ImplementationGuide resource defines several other properties
