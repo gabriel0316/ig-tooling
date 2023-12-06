@@ -164,6 +164,9 @@ groups:
     description: Datenmodell basierend auf Rahmenkonzept.
     resources:
       - StructureDefinition/PatientHI
+      - StructureDefinition/AkteurHI
+      - StructureDefinition/ErstdokumentationHI
+      - StructureDefinition/FolgedokumentationHI
 #
 #
 # The ImplementationGuide resource defines several other properties
