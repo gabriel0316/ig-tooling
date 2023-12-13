@@ -4,12 +4,18 @@
 Logical: AkteurHI
 Id: AkteurHI
 Title: "Strukturdaten der beteiligten Einrichtungen/Akteure"
+// Was genau ist eine "Einrichtung"?
 * Einrichtung 1..1 string "Einrichtungsbezeichnung"
-* Einrichtungsart 1..1 code "extramural | intramural"
+* Einrichtungsart 1..1 CodeableConcept "extramural | intramural"
+// Bezieht sich die Fachrichtung auf die Einrichtung oder den GDL?
+* Fachrichtung 1..1 CodeableConcept "Fachrichtung (AM | IM | etc.)"
 * Adresse 1..* Address "Adresse/politischer Bezirk"
-* Personalstand 1..1 BackboneElement "Anzahl der VZÄ/Köpfe je Berufsgruppe, die am DMP aktiv beteiligt sind"
+
+// muss der Personalstand regelmäßig erhoben werden; Quartalsende?
+* Personalstand 1..* BackboneElement "Personalstand (Quartalsende) - Anzahl der VZÄ/Köpfe je Berufsgruppe, die am DMP aktiv beteiligt sind"
+// Muss die Anzahl explizit erhoben werden oder könnte diese auch abgeleitet werden aus den dokumentierten GDL?
 * Personalstand.Anzahl 1..1 integer "Anzahl"
-* Personalstand.Berufsgruppe 1..1 code "Berufsgruppe"
+* Personalstand.Berufsgruppe 1..1 CodeableConcept "Berufsgruppe"
 * GDL 1..* BackboneElement "GDL"
 * GDL.Vorname 1..* string "Vorname GDL"
 * GDL.Zuname 1..* string "Zuname GDL"
@@ -22,4 +28,5 @@ Title: "Strukturdaten der beteiligten Einrichtungen/Akteure"
 * Schulungen 1..1 BackboneElement "Schulung"
 * Schulungen.aktiv 1..1 boolean "Schulungsaktivitäten"
 * Schulungen.Anzahl 0..1 integer "Anzahl der durchgeführten DM(P)-spezifischen Patientenschulungen"
+// Was soll hiermit dokumentiert werden?
 * Konsultationen 1..1 date "Datum e-card-Steckung"
