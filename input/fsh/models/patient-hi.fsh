@@ -20,6 +20,7 @@ Description:  "Patient/Teilnehmer basierend dem Entwurf der Datenspezifikation d
 
 // gibt es nur eine Schulung?
 // Könnte es sein, dass Schulungen wiederholt werden?
+// Muss das hier dokumentiert werden -> siehe erstdokumentation/folgedokumentation
 * Schulung 1..1 BackboneElement "DM(P)-spezifische Patientenschulung"
 * Schulung.absolviert 1..1 boolean "absolviert"
 * Schulung.Datum 1..1 date "Datum der Schulung"
