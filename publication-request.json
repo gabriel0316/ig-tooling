@@ -10,5 +10,6 @@
     "first" : true,
     "title" : "IG Tooling by GKL",
     "ci-build" : "https://build.fhir.org/ig/gabriel0316/ig-tooling/",
-    "introduction" : "Test introduction"
+    "introduction" : "Test introduction",
+    "category" : "National Base"
 }
