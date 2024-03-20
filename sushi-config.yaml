@@ -4,7 +4,7 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: hl7.at.fhir.gkl.ig-tooling
-canonical: https://gabriel0316.github.io/ig-tooling-pages/ig-tooling
+canonical: https://gabriel0316.github.io/ig-tooling-pages/ig/ig-tooling
 name: Integrierte Versorgung - Herzinsuffizienz
 # title: Example Title
 # description: Example Implementation Guide for getting started with SUSHI
