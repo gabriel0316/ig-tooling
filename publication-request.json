@@ -4,12 +4,12 @@
     "path" : "https://gabriel0316.github.io/ig-tooling-pages/ig/ig-tooling/0.1.0",
     "mode" : "working",
     "status" : "trial-use",
-    "sequence" : "Releases",
+    "sequence" : "DSTU 1",
     "desc" : "First attempt of release",
     "changes" : "changelog.html",
     "first" : true,
     "title" : "IG Tooling by GKL",
-    "ci-build" : "https://build.fhir.org/ig/gabriel0316/ig-tooling/",
+    "ci-build" : "build.fhir.org/ig/gabriel0316/ig-tooling/",
     "introduction" : "Test introduction",
     "category" : "National Base"
 }
