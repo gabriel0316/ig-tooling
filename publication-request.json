@@ -9,7 +9,7 @@
     "changes" : "changelog.html",
     "first" : true,
     "title" : "IG Tooling by GKL",
-    "ci-build" : "build.fhir.org/ig/gabriel0316/ig-tooling/",
+    "ci-build" : "http://build.fhir.org/ig/gabriel0316/ig-tooling/",
     "introduction" : "Test introduction",
     "category" : "National Base"
 }
