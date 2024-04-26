@@ -12,7 +12,7 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: austrian-terminology-server
 canonical: TERMGIT_CANONICAL
-version: 2.7.0+20240404
+version: 2.7.0
 name: termgit
 title: Österreichischer e-Health-Terminologie-Browser
 status: active
