@@ -1,3 +1,4 @@
+
 | Name | OID | ID | Current Version | Metadata Change Timestamp | Description |
 | --- | --- | --- | --- | --- | --- |
 |[CodeSystem-appc-anatomie](https://termgit.elga.gv.at/CodeSystem/appc-anatomie)|1.2.40.0.34.5.38.4|appc-anatomie|1.0.1+20230925|2024-06-04T11:40:47.0000Z|**Description:** Code List for all APPC-Codes for 4th Axis: Anatomy  **Beschreibung:** Code Liste aller Codes der 4. APPC-Achse: Anatomie  **Versions-Beschreibung:** Korrekturversion zu 1.0.10|
