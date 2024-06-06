@@ -1,7 +1,11 @@
 <div xmlns="http://www.w3.org/1999/xhtml"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <blockquote class="stu-note">
+    <p></p>
+    <p></p>
     <p><strong><a href="contest.html">Aufruf zum "IPS Visualization Contest" - Gestalte die Zukunft der Patient Summary!</a></strong></p>
+    <p></p>
+    <p></p>
   </blockquote>
 </div>
 
