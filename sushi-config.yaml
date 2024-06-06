@@ -4,32 +4,35 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: hl7.at.fhir.gkl.ig-tooling
-canonical: https://gabriel0316.github.io/ig-tooling-pages/ig/ig-tooling
-name: Integrierte Versorgung - Herzinsuffizienz
-# title: Example Title
-description: This IG is built in order to describe the IG tooling in Austria.
+canonical: https://fhir.hl7.at/elga-austrianpatientsummary-r4
+name: ELGA-AustrianPatientSummary-R4
+title: Austrian IPS (R4)
+description: The FHIR® implementation guide Austrian IPS is derived from the HL7® Austria FHIR® Core implementation guide and ensures conformity with the International Patient Summary (IPS).
 status: draft # draft | active | retired | unknown
+jurisdiction: urn:iso:std:iso:3166#AUT
 version: 0.2.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
-copyrightYear: 2023+
-releaseLabel: trial-use # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
+copyrightYear: 2024+
+releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
 # license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 # jurisdiction: urn:iso:std:iso:3166#US "United States of America" # https://www.hl7.org/fhir/valueset-jurisdiction.html
+publisher:
+  name: ELGA GmbH
+  url: https://elga.gv.at
+  # email: test@example.org
 
 # The dependencies property corresponds to IG.dependsOn. The key is the
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for id, uri, and version.
 #
-# dependencies:
+dependencies:
+  hl7.fhir.uv.ips: 1.1.0
+  hl7.at.fhir.core.r4: current
 #   hl7.fhir.us.core: 3.1.0
 #   hl7.fhir.us.mcode:
 #     id: mcode
 #     uri: http://hl7.org/fhir/us/mcode/ImplementationGuide/hl7.fhir.us.mcode
 #     version: 1.0.0
-
-dependencies:
-  hl7.cda.uv.core: 2.0.0-sd-snapshot1
-
 #
 #
 # The pages property corresponds to IG.definition.page. SUSHI can
@@ -43,6 +46,11 @@ dependencies:
 # with supported extensions (e.g., .md/.xml) will be treated as
 # sub-pages.
 #
+pages:
+  index.md:
+    title: Home
+  contest.md:
+    title: Aufruf zum "IPS Visualization Contest" - Gestalte die Zukunft der Patient Summary!
 # pages:
 #   index.md:
 #     title: Example Home
@@ -76,6 +84,7 @@ dependencies:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
+  Wettbewerb: contest.html
   Artifacts: artifacts.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
@@ -158,15 +167,6 @@ menu:
 #     resources:
 #     - StructureDefinition/bark-control
 #     - StructureDefinition/bee-sting
-groups:
-  HI:
-    name:  HI Datenmodell
-    description: Datenmodell basierend auf Rahmenkonzept.
-    resources:
-      - StructureDefinition/PatientHI
-      - StructureDefinition/AkteurHI
-      - StructureDefinition/ErstdokumentationHI
-      - StructureDefinition/FolgedokumentationHI
 #
 #
 # The ImplementationGuide resource defines several other properties
