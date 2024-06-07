@@ -50,7 +50,7 @@ pages:
   index.md:
     title: Home
   contest.md:
-    title: Aufruf zum "IPS Visualization Contest" - Gestalte die Zukunft der Patient Summary!
+    title: HL7® Austria IPS Visualization Contest
 # pages:
 #   index.md:
 #     title: Example Home
@@ -84,7 +84,7 @@ pages:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   Home: index.html
-  Wettbewerb: contest.html
+  HL7® Austria IPS Visualization Contest: contest.html
   Artifacts: artifacts.html
 
 # ╭───────────────────────────Less Common Implementation Guide Properties──────────────────────────╮
