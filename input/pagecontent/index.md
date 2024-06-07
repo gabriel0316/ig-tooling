@@ -7,7 +7,7 @@
   font-weight: bold;
 }
 
-.stu-note {
+blockquote.stu-note {
   margin: 5px;
   padding: 10px;
   background-color: #CBE9FD;
