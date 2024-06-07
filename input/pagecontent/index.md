@@ -3,7 +3,7 @@
   <blockquote class="stu-note">
     <p></p>
     <p></p>
-    <p><strong>Aufruf zum <a href="contest.html">HL7® Austria IPS Visualization Contest</a> - Gestalte die Zukunft der Patient Summary!</strong></p>
+    <p><strong>Aufruf zum <a href="contest.html">IPS Visualization Contest</a> - Gestalte die Zukunft der Patient Summary!</strong></p>
     <p></p>
     <p></p>
   </blockquote>
