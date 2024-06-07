@@ -1,3 +1,20 @@
+<style>
+.stu-note::before {
+  white-space: pre;
+  content: "INFO\A ";
+  background-color: unset;
+  color: unset;
+  font-weight: bold;
+}
+
+blockquote.stu-note {
+  margin: 5px;
+  padding: 10px;
+  background-color: #CBE9FD;
+  border-left-color: #7F929E;
+}
+</style>
+
 Liebe Schüler:innen und Student:innen,
 
 Die [HL7® Austria](https://hl7.at/) und die [ELGA GmbH](https://www.elga.gv.at/) laden euch herzlich dazu ein, am Visualization Contest für das [International Patient Summary (IPS)](https://hl7.org/fhir/uv/ips/) teilzunehmen und euer kreatives Potenzial zu entfalten! Das IPS wird zu einem wichtigen Element der europäischen Gesundheitskommunikation und trägt dazu bei, wesentliche Patientendaten einheitlich und verständlich zu übermitteln.
@@ -6,7 +23,7 @@ Das IPS basiert auf dem [HL7® FHIR®](https://hl7.org/fhir/R4/index.html) (Fast
 
 Im Rahmen dieses Wettbewerbs stellen wir euch zwei beispielhafte IPS-Datensätze zur Verfügung, die im Zuge des Contests visualisiert werden sollen. Diese Datensätze bieten euch die Möglichkeit, eure Designideen an realistischen Patient:inneninformationen zu testen und umzusetzen.
 
-<div markdown="1" class="stu-note">
+<div markdown="1" class="stu-note" >
 **Eure Aufgabe** besteht darin, innovative Design-Prototypen für die Visualisierung des IPS zu entwickeln - allein oder als Team! Ihr könnt dabei interaktive Lösungen gestalten, die die Nutzer einbeziehen. Alternativ könnt ihr auch statische Visualisierungen entwerfen, die beispielsweise für den Ausdruck geeignet sind und dennoch die Informationen klar und übersichtlich darstellen. Wichtig ist uns, dass die Informationen übersichtlich dargestellt werden und bei bedarf auch nach Daten gefiltert oder gesucht werden kann. Ebenso solle jede Art von Darstellung unterstützt werden (z.B. Stichwort "responsive"). Sollte eine technische Umsetzung nicht möglich sein, sind wir jedenfalls auch an Mock-ups interessiert. In jedem Fall solltet ihr euer Werk gut dokumentieren, z.B. in einem GitHub/GitLab-Repository, wo ihr auch gleich die Source-Files bereitstellen könnt.
 
 Beispiele des österreichischen Patient Summary:

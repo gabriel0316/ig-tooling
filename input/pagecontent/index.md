@@ -1,3 +1,20 @@
+<style>
+.stu-note::before {
+  white-space: pre;
+  content: "INFO\A ";
+  background-color: unset;
+  color: unset;
+  font-weight: bold;
+}
+
+blockquote.stu-note {
+  margin: 5px;
+  padding: 10px;
+  background-color: #CBE9FD;
+  border-left-color: #7F929E;
+}
+</style>
+
 <div xmlns="http://www.w3.org/1999/xhtml"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <blockquote class="stu-note">
