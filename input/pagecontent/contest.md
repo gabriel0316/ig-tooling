@@ -1,6 +1,8 @@
+[![overview](hl7atlogo.png){: style="width: 50%"}](hl7atlogo.png)
+
 Liebe Schüler:innen und Student:innen,
 
-Wir laden euch herzlich dazu ein, am Visualization Contest für die International Patient Summary (IPS) teilzunehmen und euer kreatives Potenzial zu entfalten! Die IPS entwickelt sich zu einem essenziellen Bestandteil der globalen Gesundheitskommunikation und dient dazu, wichtige Patient:inneninformationen einheitlich und verständlich zu kommunizieren.
+HL7® Austria ladet euch herzlich dazu ein, am Visualization Contest für die International Patient Summary (IPS) teilzunehmen und euer kreatives Potenzial zu entfalten! Die IPS entwickelt sich zu einem essenziellen Bestandteil der globalen Gesundheitskommunikation und dient dazu, wichtige Patient:inneninformationen einheitlich und verständlich zu kommunizieren.
 
 Die IPS basiert auf dem HL7® FHIR® (Fast Healthcare Interoperability Resources) Standard und nutzt strukturierte Datenformate wie JSON zur Speicherung und Übertragung. Sie umfasst wichtige Informationen zu einer Person, wie demografische Daten, medizinische Diagnosen, Medikationspläne, Allergien und vieles mehr, um ein umfassendes Bild zu vermitteln.
 
