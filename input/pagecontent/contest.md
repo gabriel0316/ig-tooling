@@ -1,7 +1,7 @@
 <style>
 .stu-note::before {
   white-space: pre;
-  content: "INFO\A ";
+  content: "AUFGABE\A ";
   background-color: unset;
   color: unset;
   font-weight: bold;
