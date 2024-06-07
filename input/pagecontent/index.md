@@ -3,28 +3,30 @@
   <blockquote class="stu-note">
     <p></p>
     <p></p>
-    <p><strong><a href="contest.html">Aufruf zum "IPS Visualization Contest" - Gestalte die Zukunft der Patient Summary!</a></strong></p>
+    <p><strong>Aufruf zum <a href="contest.html">HL7® Austria IPS Visualization Contest</a> - Gestalte die Zukunft der Patient Summary!</strong></p>
     <p></p>
     <p></p>
   </blockquote>
 </div>
 
-Die österreischische Patient Summary (Austrian IPS) kombiniert die Vorgaben der [International Patient Summary (IPS)](https://hl7.org/fhir/uv/ips/) sowie des [HL7® Austria FHIR® Core Implementation Guides](https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/).
+### Einleitung
+
+Ziel dieses Implementierungsleitfadens ist die Beschreibung von Struktur, Format und Standards des österreischischen Patient Summary (Austrian PS). Dazu werden die Vorgaben des [International Patient Summary (IPS)](https://hl7.org/fhir/uv/ips/) sowie des [HL7® Austria FHIR® Core Implementation Guides](https://build.fhir.org/ig/HL7Austria/HL7-AT-FHIR-Core-R4/) kombiniert.
 
 [![overview](austrian-ips-context.drawio.png){: style="width: 50%"}](austrian-ips-context.drawio.png)
 
-### Beispiele
+#### Beispiele
 
-Die folgenden beiden Beispiele setzen die Vorgaben der österreichischen Patient Summary um:
+Die folgenden beiden Beispiele setzen die Vorgaben des österreichischen Patient Summary um:
 
 - [IPS-1-no-problems-medication-allergies](Bundle-IPS-1-no-problems-medication-allergies.html)
 - [IPS-2-preventive-medical-checkup](Bundle-IPS-2-preventive-medical-checkup.html)
 
-### Abhängigkeiten
+### Abhängigkeiten zu anderen Implementierungsleitfäden
 
 {% include dependency-table.xhtml %}
 
-### License and Legal Terms
-HL7®, HEALTH LEVEL SEVEN® and FHIR® are trademarks owned by Health Level Seven International, registered with the United States Patent and Trademark Office.
+### Lizenz und rechtliche Bedingungen
+HL7®, HEALTH LEVEL SEVEN® und FHIR® sind Marken im Besitz von Health Level Seven International, eingetragen beim United States Patent and Trademark Office.
 
-This Implementation Guide contains and references intellectual property owned by third parties (“Third Party IP”). Acceptance of these License Terms does not grant any rights with respect to Third Party IP. The licensee alone is responsible for identifying and obtaining any necessary licenses or authorizations to utilize Third Party IP in connection with the specification or otherwise.
+Dieser Implementierungsleitfaden enthält und verweist auf geistiges Eigentum, das Dritten gehört („Third Party IP“). Mit der Annahme dieser Lizenzbedingungen werden keine Rechte in Bezug auf das geistige Eigentum Dritter gewährt. Der Lizenznehmer ist allein dafür verantwortlich, alle erforderlichen Lizenzen oder Genehmigungen für die Nutzung des geistigen Eigentums Dritter in Verbindung mit der Spezifikation oder auf andere Weise zu ermitteln und einzuholen.
