@@ -3,7 +3,7 @@
   <blockquote class="stu-note">
     <p></p>
     <p></p>
-    <p><strong>Aufruf zum <a href="contest.html">IPS Visualization Contest</a> - Gestalte die Zukunft der Patient Summary!</strong></p>
+    <p><strong>Aufruf zum <a href="contest.html">IPS Visualization Contest</a> - Gestalte die Zukunft des Patient Summary!</strong></p>
     <p></p>
     <p></p>
   </blockquote>
@@ -19,8 +19,8 @@ Ziel dieses Implementierungsleitfadens ist die Beschreibung von Struktur, Format
 
 Die folgenden beiden Beispiele setzen die Vorgaben des österreichischen Patient Summary um:
 
-- [IPS-1-no-problems-medication-allergies](Bundle-IPS-1-no-problems-medication-allergies.html)
-- [IPS-2-preventive-medical-checkup](Bundle-IPS-2-preventive-medical-checkup.html)
+- [APS-1-no-problems-medication-allergies](Bundle-APS-1-no-problems-medication-allergies.html)
+- [APS-2-preventive-medical-checkup](Bundle-APS-2-preventive-medical-checkup.html)
 
 ### Abhängigkeiten zu anderen Implementierungsleitfäden
 
