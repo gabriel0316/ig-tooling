@@ -15,6 +15,8 @@
 }
 </style>
 
+![hl7at](contest.png){: style="width: 10%"}
+
 Liebe Schüler:innen und Student:innen,
 
 Die [HL7® Austria](https://hl7.at/) lädt mit Unterstützung der [ELGA GmbH](https://www.elga.gv.at/) herzlich dazu ein, am Visualization Contest für das [International Patient Summary (IPS)](https://hl7.org/fhir/uv/ips/) teilzunehmen und euer kreatives Potenzial zu entfalten! Das IPS wird zu einem wichtigen Element der europäischen Gesundheitskommunikation und trägt dazu bei, wesentliche Patientendaten einheitlich und verständlich zu übermitteln.
