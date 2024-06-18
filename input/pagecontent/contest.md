@@ -80,5 +80,6 @@ Für das IPS gibt es bereits verschiedene Visualisierungswerkzeuge, die aber all
 - Die Auswahl des besten Design-Prototypen erfolgt durch eine Jury, die als wissenschaftliches Komitee von der HL7® Austria bestellt wird.
 - Das Einlegen von Rechtsmitteln gegen die vom Ausschuss getroffene Auswahl ist ausgeschlossen.
 - Mit der Einreichung erklären sich die Teilnehmer ausdrücklich damit einverstanden, dass alle Nutzungs-, Veröffentlichungs- und Weiterentwicklungsrechte an dem eingereichten Design-Prototypen exklusiv und vollständig auf die ELGA GmbH übertragen werden. Diese Übertragung erfolgt unwiderruflich und unentgeltlich. Die Teilnehmer verzichten auf alle Ansprüche hinsichtlich der Nutzung und Weiterentwicklung der Idee durch die ELGA GmbH.
-- **TODO** Es gilt das Recht der [Rechtsordnung einfügen]. Gerichtsstand ist [Gerichtsstand einfügen].
+- Für alle Streitigkeiten aus oder im Zusammenhang mit der gegenständlichen Auslobung sowie im Zusammenhang mit Nutzungsrechten an der im Wettbewerb eingereichten Software ist ausnahmslos österreichisches Recht, jedoch unter Ausschluss aller Weiterverweisungen auf ausländisches Recht anzuwenden.
+- Für Streitigkeiten aus dieser Auslobung inkl. Nutzungsrechten ist das sachlich zuständige Gericht am Sitz der Ausloberin (HL7 Austria) zuständig.
 
