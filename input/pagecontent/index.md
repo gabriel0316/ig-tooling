@@ -18,7 +18,7 @@ blockquote.stu-note {
 <div xmlns="http://www.w3.org/1999/xhtml"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <blockquote class="stu-note">
-    <p></p>
+    <p><img src="contest.png" alt="hl7at" style="width: 10%"></p>
     <p></p>
     <p><strong>Aufruf zum <a href="contest.html">IPS Visualization Contest</a> - Gestalte die Zukunft des Patient Summary!</strong></p>
     <p></p>
