@@ -34,7 +34,7 @@ Beispiele des österreichischen Patient Summary (bereitgestellt durch die ELGA G
 - [APS-2-preventive-medical-checkup](Bundle-APS-2-preventive-medical-checkup.html) - Umfangreiches Beispiel eines Patienten mit zahlreichen Beschwerden, Allergien, früheren Behandlungen, etc. Darüber hinaus wurden mehrere Medikamente verschrieben und Laborwerte erhoben.
 </div>
 
-Der Contest erstreckt sich über den Sommer und endet am **30. September 2024**. Eure eingereichten Prototypen werden von einer Fachjury bewertet, die Kreativität, Benutzerfreundlichkeit, Umsetzbarkeit, Ästhetik und die Fähigkeit zur effektiven Kommunikation von Gesundheitsinformationen berücksichtigt.
+Der Contest erstreckt sich über den Sommer und endet am **31. Oktober 2024**. Eure eingereichten Prototypen werden von einer Fachjury bewertet, die Kreativität, Benutzerfreundlichkeit, Umsetzbarkeit, Ästhetik und die Fähigkeit zur effektiven Kommunikation von Gesundheitsinformationen berücksichtigt.
 
 Die Gewinner:innen werden nicht nur mit einem Preisgeld belohnt, sondern haben auch die Möglichkeit, ihre Entwürfe einer breiten Öffentlichkeit zu präsentieren und einen Beitrag zur Weiterentwicklung der Gesundheitskommunikation zu leisten. Die Gewinner:innen des Wettbewerbs werden mit einem Preisgeld von € 1000,- prämiert und dürfen ihren Design-Prototypen im Rahmen der HL7 Jahrestagung 2025 präsentieren.
 
@@ -73,8 +73,8 @@ Für das IPS gibt es bereits verschiedene Visualisierungswerkzeuge, die aber all
   - Kurzpräsentation des Design-Prototypen auf 3 Folien (als PDF)
   - Lebenslauf mit stichwortartiger Beschreibung des bisherigen (schulischen oder wissenschaftlichen) Werdegangs der einzelnen Schüler:innen und/oder Student:innen (als PDF)
 - Einsendung an [office@hl7.at](mailto:office@hl7.at). Sie erhalten dann eine Rückmeldung, ob Ihre Unterlagen akzeptiert wurden. Nur vollständige Bewerbungen werden akzeptiert.
-- Einsendeschluss: 30. September 2024
-- Die Gewinner:innen werden bis 30. November 2024 bekannt gegeben.
+- Einsendeschluss: 31. Oktober 2024
+- Die Gewinner:innen werden bis 31. Dezember 2024 bekannt gegeben.
 - Die Gewinner:innen präsentieren ihren Design-Prototyp in einem Kurzvortrag (5 Minuten) anhand der eingereichten Kurzpräsentation im Rahmen der HL7® Jahrestagung 2025. Für sie ist daher die Teilnahme an dieser Veranstaltung kostenlos.
 - Etwaige durch die Einreichung anfallende Kosten (wie z.B. Arbeitszeit, Reisekosten, etc.) werden nicht erstattet.
 - Die Auswahl des besten Design-Prototypen erfolgt durch eine Jury, die als wissenschaftliches Komitee von der HL7® Austria bestellt wird.
